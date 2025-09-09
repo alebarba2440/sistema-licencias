@@ -1,0 +1,4 @@
+{
+  "CLIENTE-ABC-001": { "active": true, "notes": "Cliente de prueba" },
+  "CLIENTE-XYZ-002": { "active": false, "notes": "Cortado por falta de pago" }
+}
