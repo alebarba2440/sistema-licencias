@@ -1,4 +1,12 @@
 {
-  "CLIENTE-ABC-001": { "active": true, "notes": "Cliente de prueba" },
-  "CLIENTE-XYZ-002": { "active": false, "notes": "Cortado por falta de pago" }
+  "alejandro": {
+    "password": "123",
+    "active": true,
+    "notes": "Cliente de prueba"
+  },
+  "ale2": {
+    "password": "123",
+    "active": false,
+    "notes": "Cortado por falta de pago"
+  }
 }
