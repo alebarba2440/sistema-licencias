@@ -8,5 +8,15 @@
     "password": "123",
     "active": false,
     "notes": "Acceso denegado"
+  },
+  "centro": {
+    "password": "centro",
+    "active": true,
+    "notes": "Cliente activo"
+  },
+  "lasflores": {
+    "password": "adrian",
+    "active": true,
+    "notes": "Cliente activo"
   }
 }
