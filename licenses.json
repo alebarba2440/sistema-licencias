@@ -9,7 +9,7 @@
     "active": false,
     "notes": "Cliente Denegado"
   },
-  "centroq": {
+  "centro": {
     "password": "centro",
     "active": false,
     "notes": "Cliente activo"
