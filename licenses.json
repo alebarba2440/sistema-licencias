@@ -11,7 +11,7 @@
   },
   "centro": {
     "password": "centro",
-    "active": true,
+    "active": false,
     "notes": "Cliente activo"
   },
   "lasflores": {
