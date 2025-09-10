@@ -6,7 +6,7 @@
   },
   "ale22": {
     "password": "123",
-    "active": false,
+    "active": true,
     "notes": "Cliente Denegado"
   },
   "centro": {
