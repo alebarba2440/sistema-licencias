@@ -4,7 +4,7 @@
     "active": true,
     "notes": "Cliente de prueba"
   },
-  "ale22": {
+  "ale2": {
     "password": "123",
     "active": false,
     "notes": "Cliente Denegado"
