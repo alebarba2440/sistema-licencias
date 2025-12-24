@@ -10,13 +10,13 @@
     "notes": "Cliente Denegado"
   },
   "centro": {
-    "password": "centro",
-    "active": false,
+    "password": "243385centro",
+    "active": true,
     "notes": "Cliente activo"
   },
   "lasflores": {
-    "password": "adrian",
-    "active": false,
+    "password": "41469adrian",
+    "active": true,
     "notes": "Cliente activo"
   }
 }
