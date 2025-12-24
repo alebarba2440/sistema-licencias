@@ -1,7 +1,7 @@
 {
   "alejandro": {
     "password": "123",
-    "active": true,
+    "active": false,
     "notes": "Cliente de prueba"
   },
   "ale2": {
