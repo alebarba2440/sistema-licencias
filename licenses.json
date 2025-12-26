@@ -10,7 +10,7 @@
     "notes": "Cliente Denegado"
   },
   "centro": {
-    "password": "243385centro",
+    "password": "centro",
     "active": true,
     "notes": "Cliente activo"
   },
