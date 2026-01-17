@@ -16,7 +16,7 @@
   },
   "lasflores": {
     "password": "adrian",
-    "active": false,
+    "active": true,
     "notes": "Cliente activo"
   }
 }
