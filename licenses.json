@@ -20,3 +20,11 @@
     "notes": "Cliente activo"
   }
 }
+{
+  "licenses": [
+    {
+      "id": "empresa_x",
+      "activo": true
+    }
+  ]
+}
