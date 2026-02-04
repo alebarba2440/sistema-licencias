@@ -18,5 +18,10 @@
     "password": "adrian",
     "active": true,
     "notes": "Cliente activo"
-  }
+  },
+  "admin": {
+    "password": "admin",
+    "active": true,
+    "notes": "Cliente activo"
+  },
 }
